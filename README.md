@@ -46,8 +46,10 @@ This last heat map shows that subscribers checkout bikes more often during the w
 ## Summary
 
 The main takeaways of this analysis are:
-1. Many bike-sharing users are people who is comuting to and of of their jobs. For that reason, more than 80% of the total rides that ocurred in August were from people who has a subscription. 
+1. Many bike-sharing users are people who is commuting to and out of their jobs. For that reason, more than 80% of the total rides that occurred in August were from people who has a subscription. 
+2. Data suggest that most people use the bike for 3 - 15 minutes. Knowing this information allows us to better set the pricing structure, and strategize where the bike stations should be located.
+3. More males use the bike-sharing program than females. This is useful information for marketing campaigns.
+4. There's higher utilization by subscribers during weekdays, and higher utilization by customers during the weekends
 
+For future analysis I would look into Des Moines demographic and try to understand if there is truly a demand for a bike-sharing business. Surveys can be conducted as well as market research in which we could determine the number of people that would be interested in this program.  
 
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis
