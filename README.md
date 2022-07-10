@@ -44,3 +44,10 @@ This last heat map shows that subscribers checkout bikes more often during the w
 
 
 ## Summary
+
+The main takeaways of this analysis are:
+1. Many bike-sharing users are people who is comuting to and of of their jobs. For that reason, more than 80% of the total rides that ocurred in August were from people who has a subscription. 
+
+
+
+There is a high-level summary of the results and two additional visualizations are suggested for future analysis
